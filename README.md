@@ -1,8 +1,8 @@
-# The Castle Isle · 海上城堡
+# Little Seadom · 小小海国
 
 Ring the bell, brush the cherry branches or give the little boat a nudge. A Three.js island with four seasons, changing weather and a clock you can set from dawn to nightfall.
 
-**[Explore the island · 进入海岛](https://cx-artlab.github.io/the-castle-isle/)**
+**[Explore the island · 进入小小海国](https://cx-artlab.github.io/little-seadom/)**
 
 Drag to orbit. Pinch or scroll to zoom. Tap a sheep to see it jump, or double-tap the gate to open it.
 

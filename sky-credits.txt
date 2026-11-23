@@ -1,4 +1,4 @@
-Sky imagery in The Castle Isle
+Sky imagery in Little Seadom
 
 The interactive viewer renders procedural volumetric clouds and atmospheric scattering.
 
