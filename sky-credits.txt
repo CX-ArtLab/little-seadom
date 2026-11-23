@@ -1,0 +1,17 @@
+Sky imagery in The Castle Isle
+
+The interactive viewer renders procedural volumetric clouds and atmospheric scattering.
+
+Earlier versions of the viewer and previously rendered media used a reframed
+and color-graded hemisphere from the following HDR panorama.
+Kloofendal 48d Partly Cloudy (Pure Sky), Greg Zaal and Jarod Guest, Poly Haven.
+https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The previously rendered film and stills also use Cumulus Clouds on Horizon,
+Defi22 (2017). That photograph was reprojected, cropped, color graded and
+blended with the spherical survey above. The earlier composite panorama is
+licensed under Creative Commons Attribution-ShareAlike 4.0 International.
+https://commons.wikimedia.org/wiki/File:Cumulus_Clouds_on_Horizon.jpg
+https://creativecommons.org/licenses/by-sa/4.0/
